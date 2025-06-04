@@ -1292,7 +1292,7 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #intro {
-	background: #ffffff url(../Fotos-videos/Fondo_2.gif) no-repeat center bottom;
+	background: #ffffff url(../Fotos-videos/Fondo_2.mp4) no-repeat center bottom;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
@@ -2136,7 +2136,7 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #services {
-	background: #313131 url(../images/Color4.webp) no-repeat center;
+	background: #313131 url(../imagenes/Color4.webp) no-repeat center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
